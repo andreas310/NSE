@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "997072256347",
+    "firebase_url": "https://notaris-silvia.firebaseio.com",
+    "project_id": "notaris-silvia",
+    "storage_bucket": "notaris-silvia.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:997072256347:android:97c55731f06f7e26",
+        "android_client_info": {
+          "package_name": "com.nse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "997072256347-nogl3bp12nkqs085qnl91puk369vpu80.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nse",
+            "certificate_hash": "cd1a4233a3b07b8211b5fb8e8c9ba6037d504ee3"
+          }
+        },
+        {
+          "client_id": "997072256347-p1tho9ti3tssaqd2vm7shvtpmki8ptao.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOvFoFjzH-0Qb1ODZI3USEENu__RUhZnE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "997072256347-p1tho9ti3tssaqd2vm7shvtpmki8ptao.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
