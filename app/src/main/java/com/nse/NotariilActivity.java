@@ -146,7 +146,7 @@ public class NotariilActivity extends AppCompatActivity {
                 params.put("searchQuery", judul.getText().toString());
 
                 //returing the response
-                return requestHandler.sendPostRequest("http://notaris.ga/json.php", params);
+                return requestHandler.sendPostRequest("http://notarissilvia.tech/json/noakta", params);
 
 
             }

@@ -148,7 +148,7 @@ public class NoppatActivity extends AppCompatActivity {
                 params.put("searchQuery", judul.getText().toString());
 
                 //returing the response
-                return requestHandler.sendPostRequest("http://notaris.ga/json4.php", params);
+                return requestHandler.sendPostRequest("http://notarissilvia.tech/json/noppat", params);
 
 
             }

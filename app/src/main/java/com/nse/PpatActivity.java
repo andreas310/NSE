@@ -121,7 +121,7 @@ public class PpatActivity extends AppCompatActivity {
                                 params.put("searchQuery", inputs);
 
                                 //returing the response
-                                return requestHandler.sendPostRequest("http://notaris.ga/json3.php", params);
+                                return requestHandler.sendPostRequest("http://notarissilvia.tech/json/ppat", params);
 
 
                             }

@@ -119,7 +119,7 @@ public class DataaktaActivity extends AppCompatActivity {
                                 params.put("searchQuery", inputs);
 
                                 //returing the response
-                                return requestHandler.sendPostRequest("http://notaris.ga/json2.php", params);
+                                return requestHandler.sendPostRequest("http://notarissilvia.tech/json/cekakta", params);
 
 
                             }
