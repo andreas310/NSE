@@ -149,7 +149,6 @@ public class NoppatActivity extends AppCompatActivity {
 
                 //returing the response
                 return requestHandler.sendPostRequest("http://notarissilvia.tech/json/noppat", params);
-                s
 
 
             }
